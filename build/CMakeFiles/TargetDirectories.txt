@@ -1,0 +1,4 @@
+/home/tiana/Documents/CryptoApp/build/CMakeFiles/CryptoApp.dir
+/home/tiana/Documents/CryptoApp/build/CMakeFiles/edit_cache.dir
+/home/tiana/Documents/CryptoApp/build/CMakeFiles/rebuild_cache.dir
+/home/tiana/Documents/CryptoApp/build/CMakeFiles/CryptoApp_autogen.dir
